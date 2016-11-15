@@ -40,6 +40,7 @@
 			children = (
 				CDF6E34F1DD5C33D003CA5DA /* SwiftApp1 */,
 				CDF6E34E1DD5C33D003CA5DA /* Products */,
+				CDF6E3591DD5C33D003CA5DA /* LaunchScreen.storyboard */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,6 @@
 				CDF6E3521DD5C33D003CA5DA /* ViewController.swift */,
 				CDF6E3541DD5C33D003CA5DA /* Main.storyboard */,
 				CDF6E3571DD5C33D003CA5DA /* Assets.xcassets */,
-				CDF6E3591DD5C33D003CA5DA /* LaunchScreen.storyboard */,
 				CDF6E35C1DD5C33D003CA5DA /* Info.plist */,
 			);
 			path = SwiftApp1;
@@ -158,6 +158,7 @@
 				CDF6E35A1DD5C33D003CA5DA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			path = SwiftApp1;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -299,6 +300,7 @@
 				CDF6E3611DD5C33D003CA5DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
